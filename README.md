@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github.com](https://github.com/Iamojochenemi/Testimonials-grid.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
